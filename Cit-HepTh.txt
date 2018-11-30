@@ -31,9 +31,9 @@ UUNomor19Tahun2000 UUNomor19Tahun1997
 #Rega Jeatreya Tungga 16.01.53.0139
 UUNomor38Tahun2004 PemerintahNo.34Tahun2006 
 UUNomor38Tahun2004  PeraturanDaerahNomor13TAHUN2013 
-UUNomor38Tahun2004  perdano5th2011
-UUNomor38Tahun2004  PeraturanDaerahNomor23Tahun2008
-UUNomor38Tahun2004  PeraturanPemerintahNomor74Tahun2014
+UUNomor26Tahun2000  UUNomor14Tahun1970
+UUNomor40Tahun1999  UUNomor2Tahun1986
+UUNomor40Tahun1999  UUNomor39Tahun1999
 
 #DEVI NUR PURNAMA SARI - 15.01.53.0057
 UUNomor23Tahun1999  UUD1945
